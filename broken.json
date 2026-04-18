@@ -1,0 +1,24 @@
+{
+  "name": "Acme Corp,
+  "founded": 1998
+  "active": True,
+  "employees": 247,
+  "revenue": 12500000.
+  "departments": ["engineering", "sales" "marketing", "hr",],
+  "ceo": {
+    "name": "Jane Smith",
+    'email': "jane@acme.com",
+    "age": 52,
+  },
+  "offices": [
+    {"city": "Zurich", "country": "CH", "staff": 80},
+    {"city": "Berlin", "country": "DE", "staff": 95}
+    {"city": "Lisbon", "country: "PT", "staff": 72},
+  ],
+  "tags": ["b2b", "saas", "enterprise"],
+  "note": "Line one
+with a real newline inside",
+  "verified": null,
+  "score": 0x1F,
+  "extra": undefined
+}
