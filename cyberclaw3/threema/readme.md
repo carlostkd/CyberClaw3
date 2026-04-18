@@ -11,6 +11,9 @@ Yes! The magic word is **sudo**.
 Just type sudo explain why we need to meet tomorrow night, and Lumo jumps into the conversation, ready to reason, calculate, or joke around.
 
 
+<video src="https://carlostkd.ch/lumo/Threema+Lumo.mp4" controls width="600"></video>
+
+
 ## Installation Guide
 
 To get this running, you’ll need a dedicated setup. Think of it as your private AI butler living in a server room (or a Raspberry Pi under your desk).
