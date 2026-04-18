@@ -1,5 +1,7 @@
 # CyberClaw 3  for Termux (Android)
 
+![cyberclaw3](../cyberclaw.png)
+
 A mobile port of the CyberClaw 3, running entirely inside Termux on Android. You describe a goal in natural language, the model proposes shell commands, you approve each one with a native Android popup (or stdin y/n), the agent executes and loops until done.
 
 No root required. Works within the limits of non-rooted Android.
