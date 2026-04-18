@@ -6,6 +6,10 @@ A PHP agent that turns the Proton Lumo API into a local Linux shell assistant. Y
 
 Built with Lumo API. 
 
+[Live Api ](https://carlostkd.ch/lumo)
+
+[API Reference](https://carlostkd.ch/api-tracker)
+
 ## Features
 
 - **ReAct loop** over Lumo's chat completions endpoint (SSE streaming)
