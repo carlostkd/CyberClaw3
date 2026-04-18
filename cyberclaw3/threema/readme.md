@@ -44,9 +44,13 @@ npx playwright install
 
 Step 2: Launch the Bot
 
+There is 2 Versions Threema Canary and Threema dev
+
+The Threema Canary as no debug logs the Threema dev contains debug logs
+
 Run the script to initialize the connection:
 
-`node threema_lumo.js`
+`node threema_canary.js` or `node threema_dev.js`
 
 Step 3: Authenticate
 
