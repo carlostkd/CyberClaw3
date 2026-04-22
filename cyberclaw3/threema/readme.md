@@ -11,7 +11,7 @@ Yes! The magic word is **sudo**.
 Just type sudo explain why we need to meet tomorrow night, and Lumo jumps into the conversation, ready to reason, calculate, or joke around.
 
 
-[Watch Demo Video](https://carlostkd.ch/lumo/Threema+Lumo.mp4)
+[Watch Demo Video](https://carlostkd.ch/urls/demo)
 
 
 ## Installation Guide
